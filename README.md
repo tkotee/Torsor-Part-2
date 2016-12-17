@@ -3,4 +3,4 @@
 
 $background: #E0E0E0;
 background: ;
-min-height: 100%;*/
+min-height: 100%;
